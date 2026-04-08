@@ -63,7 +63,7 @@ python app.py
 
 ---
 
-## 🧠 Future Improvements
+##  Future Improvements
 
 * Add authentication (JWT)
 * Add caching (Redis)
